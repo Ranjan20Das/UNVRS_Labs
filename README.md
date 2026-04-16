@@ -1,4 +1,4 @@
-# UNVRS Labs v2 | Technical Architecture & Ecosystem
+# UNVRS Labs V-2026 | Technical Architecture & Ecosystem
 
 A high-performance orchestration layer designed for the next generation of AI-driven interfaces. This project serves as a technical blueprint for integrating low-latency Large Language Models (LLMs) with high-fidelity "Generative UI" components.
 
